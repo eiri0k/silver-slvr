@@ -697,15 +697,6 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 | Chainweb Integration | ✅ | Multi-chain with cross-chain messaging |
 
 
-## Support
-
-- **Documentation**: https://docs.silverbitcoin.org/slvr
-- **Discord**: https://discord.gg/silverbitcoin
-- **GitHub Issues**: https://github.com/silverbitcoin/silverbitcoin/issues
-- **Email**: support@silverbitcoin.org
-
----
-
 **The Slvr Programming Language** - Making blockchain development safe, efficient, and accessible.
 
 Slvr is **100% feature-complete** and **production-ready** for the SilverBitcoin blockchain.
